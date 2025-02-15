@@ -1,0 +1,1 @@
+libcamera-vid -n -t 0 --width 700 --height 700 --framerate 10 --inline --listen -o tcp://127.0.0.1:8888
